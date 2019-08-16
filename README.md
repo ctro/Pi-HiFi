@@ -26,6 +26,10 @@ I used the [HiFi Berry Pro](https://www.hifiberry.com/shop/boards/hifiberry-dac-
 
 [HiFi hat setup details here](https://www.hifiberry.com/build/documentation/configuring-linux-3-18-x/) if you don't want to use their OS.
 
+## Troubleshooting
+
+- You might need to `sudo service raspotify restart` every once in a while if things aren't working.
+
 ## That's it!
 
 You should be able to stream spotify to the Pi-HiFi now!
